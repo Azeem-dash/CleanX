@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "710111933483",
+    "project_id": "cleanx-827a3",
+    "storage_bucket": "cleanx-827a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710111933483:android:48ff50b81a6fa1dfcce66e",
+        "android_client_info": {
+          "package_name": "com.cleanx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710111933483-pmdtge5olrjga9blbf2pv8sp62vr1579.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhziq7r2idYGQbVGm1cLAbg0HkbkYPu28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710111933483-pmdtge5olrjga9blbf2pv8sp62vr1579.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710111933483-s0tcct3ukjao9sf87tgdcdh936fbcdlf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cleanx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
